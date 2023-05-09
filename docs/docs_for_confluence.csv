@@ -1,0 +1,3 @@
+type;page_to;path;
+image;{page_id};docs/diagrams/high_level_architecture.png
+content;{page_id};docs/high_level_architecture.md
